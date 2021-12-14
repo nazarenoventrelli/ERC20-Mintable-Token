@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nazarenoventrelli.github.io/ERC20-Mintable-Token/client/",
+  "homepage": "https://nazarenoventrelli.github.io/ERC20-Mintable-Token/",
   "dependencies": {
     "gh-pages": "^3.2.3",
     "react": "16.11.0",
