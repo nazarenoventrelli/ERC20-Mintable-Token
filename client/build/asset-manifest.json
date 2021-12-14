@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ERC20-Mintable-Token/client/static/css/main.5e4e9510.chunk.css",
+    "main.js": "/ERC20-Mintable-Token/client/static/js/main.b760d08c.chunk.js",
+    "main.js.map": "/ERC20-Mintable-Token/client/static/js/main.b760d08c.chunk.js.map",
+    "runtime-main.js": "/ERC20-Mintable-Token/client/static/js/runtime-main.0c602da2.js",
+    "runtime-main.js.map": "/ERC20-Mintable-Token/client/static/js/runtime-main.0c602da2.js.map",
+    "static/js/2.4e3779ee.chunk.js": "/ERC20-Mintable-Token/client/static/js/2.4e3779ee.chunk.js",
+    "static/js/2.4e3779ee.chunk.js.map": "/ERC20-Mintable-Token/client/static/js/2.4e3779ee.chunk.js.map",
+    "index.html": "/ERC20-Mintable-Token/client/index.html",
+    "precache-manifest.cbf353c653c348920eeeac8cc7d626a5.js": "/ERC20-Mintable-Token/client/precache-manifest.cbf353c653c348920eeeac8cc7d626a5.js",
+    "service-worker.js": "/ERC20-Mintable-Token/client/service-worker.js",
+    "static/css/main.5e4e9510.chunk.css.map": "/ERC20-Mintable-Token/client/static/css/main.5e4e9510.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c602da2.js",
+    "static/js/2.4e3779ee.chunk.js",
+    "static/css/main.5e4e9510.chunk.css",
+    "static/js/main.b760d08c.chunk.js"
+  ]
+}
