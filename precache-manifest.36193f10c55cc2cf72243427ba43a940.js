@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "080f1010d3f33a25af470e795fa636c3",
+    "revision": "dcb2549eb4ae98cfd49b0a9176dcd7c3",
     "url": "/ERC20-Mintable-Token/index.html"
   },
   {
-    "revision": "157065f1a147f27ad580",
+    "revision": "bf8be539a6a863d88f94",
     "url": "/ERC20-Mintable-Token/static/css/main.5e4e9510.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ERC20-Mintable-Token/static/js/2.4e3779ee.chunk.js"
   },
   {
-    "revision": "157065f1a147f27ad580",
-    "url": "/ERC20-Mintable-Token/static/js/main.b3f7827a.chunk.js"
+    "revision": "bf8be539a6a863d88f94",
+    "url": "/ERC20-Mintable-Token/static/js/main.7c9db2f6.chunk.js"
   },
   {
     "revision": "951f6594c37b5963844b",

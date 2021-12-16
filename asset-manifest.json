@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ERC20-Mintable-Token/static/css/main.5e4e9510.chunk.css",
-    "main.js": "/ERC20-Mintable-Token/static/js/main.b3f7827a.chunk.js",
-    "main.js.map": "/ERC20-Mintable-Token/static/js/main.b3f7827a.chunk.js.map",
+    "main.js": "/ERC20-Mintable-Token/static/js/main.7c9db2f6.chunk.js",
+    "main.js.map": "/ERC20-Mintable-Token/static/js/main.7c9db2f6.chunk.js.map",
     "runtime-main.js": "/ERC20-Mintable-Token/static/js/runtime-main.70e588e0.js",
     "runtime-main.js.map": "/ERC20-Mintable-Token/static/js/runtime-main.70e588e0.js.map",
     "static/js/2.4e3779ee.chunk.js": "/ERC20-Mintable-Token/static/js/2.4e3779ee.chunk.js",
     "static/js/2.4e3779ee.chunk.js.map": "/ERC20-Mintable-Token/static/js/2.4e3779ee.chunk.js.map",
     "index.html": "/ERC20-Mintable-Token/index.html",
-    "precache-manifest.db15de1538c577f321c032bcbe7555df.js": "/ERC20-Mintable-Token/precache-manifest.db15de1538c577f321c032bcbe7555df.js",
+    "precache-manifest.36193f10c55cc2cf72243427ba43a940.js": "/ERC20-Mintable-Token/precache-manifest.36193f10c55cc2cf72243427ba43a940.js",
     "service-worker.js": "/ERC20-Mintable-Token/service-worker.js",
     "static/css/main.5e4e9510.chunk.css.map": "/ERC20-Mintable-Token/static/css/main.5e4e9510.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.70e588e0.js",
     "static/js/2.4e3779ee.chunk.js",
     "static/css/main.5e4e9510.chunk.css",
-    "static/js/main.b3f7827a.chunk.js"
+    "static/js/main.7c9db2f6.chunk.js"
   ]
 }
